@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is my first time using a text editor in this form. It's pretty cool. Reminds me of hackers in movies.
 MR ROBOT.
 
@@ -8,6 +7,4 @@ MR ROBOT.
 Alright, I must yield. That, is a tad omnious. Lol.
 
 I already made four commits. This is now commit number five.
-=======
 booya
->>>>>>> history
